@@ -148,7 +148,7 @@ while play_game:
             else:
                 break
     else:
-        print("Wrong Input try again")
+        print("Wrong Input try again please")
         continue 
         
 play_game = False
